@@ -1,0 +1,43 @@
+# Private and editable working formats
+*.docx
+*.xlsx
+*.xls
+*.pptx
+~$*
+
+# Raw or restricted evidence
+raw/
+private/
+evidence-raw/
+original-prompts/
+**/raw/
+**/private/
+**/evidence-raw/
+
+# Archives and data exports
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.csv
+*.json
+
+# Credentials and local configuration
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+
+# Generated and local files
+.build/
+__pycache__/
+*.py[cod]
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/

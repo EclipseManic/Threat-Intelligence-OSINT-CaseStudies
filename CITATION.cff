@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it using the metadata below."
+title: "Threat Intelligence and OSINT Case Studies"
+type: dataset
+authors:
+  - family-names: "Gupta"
+    given-names: "Manichand"
+date-released: "2026-11-18"
+keywords:
+  - OSINT
+  - threat intelligence
+  - MITRE ATT&CK
+  - cybercrime research
+license: CC-BY-4.0
+abstract: "Four public case studies covering underground markets, exploit-claim validation, threat-actor attribution, and brand exposure monitoring."
+version: "1.0.0"
