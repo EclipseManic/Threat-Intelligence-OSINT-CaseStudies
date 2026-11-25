@@ -96,3 +96,5 @@ This is an independent educational portfolio project. It is not affiliated with 
 ## Licence
 
 Original written analysis is licensed under [CC BY 4.0](LICENSE.md). Code in `tools/` is licensed separately under the MIT License. Third-party source material and quoted or captured excerpts remain the property of their respective owners.
+
+Part of my [SOC and detection portfolio](https://github.com/EclipseManic).
