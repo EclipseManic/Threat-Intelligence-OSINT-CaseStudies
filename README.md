@@ -85,9 +85,9 @@ The Markdown reports are the canonical public source. PDFs are generated from th
 - [Handala Threat Actor](pdf/03%20-%20Handala%20Threat%20Actor.pdf)
 - [Brand Exposure Monitoring](pdf/04%20-%20Brand%20Exposure%20Monitoring.pdf)
 
-## Authorship And Assistance
+## Authorship
 
-Research ownership, source collection, and analyst direction: **Manichand Gupta**. AI-assisted tools were used for editorial restructuring, analytical review, document generation, consistency checks, and quality assurance.
+Research ownership, source collection, and analyst direction: **Manichand Gupta**.
 
 ## Disclaimer
 
